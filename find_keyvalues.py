@@ -44,3 +44,17 @@ while ('hostname123' in x["hname-banner-rfs:hname-banner-rfs"][0].values()):  # 
     print(x["hname-banner-rfs:hname-banner-rfs"][0]['hostname'])
 
     print(x["hname-banner-rfs:hname-banner-rfs"])
+    
+   ################################3
+   # result:
+    
+#/home/mallesha/PycharmProjects/api-testing/venv/bin/python /home/mallesha/python_learning/find_keyvalues.py
+#True
+#False
+#True
+#True
+#hostname321
+#[{'device': 'device123', 'hostname': 'hostname321', 'login-banner': 'banner123'}]
+
+#Process finished with exit code 0
+      
